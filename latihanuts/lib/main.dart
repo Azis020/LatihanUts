@@ -261,7 +261,7 @@ class ProfileHomeScreen extends StatelessWidget {
         onPressed: () {
           _showSnackBar(context, 'FloatingActionButton berhasil ditekan!');
         },
-        tooltip: 'Edit Profil',
+        tooltip: 'Edit Profilll',
         child: const Icon(Icons.edit),
       ),
     );
